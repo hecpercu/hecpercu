@@ -11,7 +11,7 @@ No solo busco patrones en los datos; busco las respuestas que impulsan la toma d
 ### 🚀 Sobre mí
 Mi enfoque es híbrido: entiendo la operativa de negocio y poseo la capacidad técnica para modelar soluciones complejas. Creo firmemente que la mejor analítica es la que se traduce en estrategia rentable y acciones claras.
 
-* 🎓 **Formación:** Data Analytics & Science Master (Pontia) + Google Data Analytics Certificate.
+* 🎓 **Formación:** Licenciado en ADE + Data Analytics & Science Master (Pontia) + Google Data Analytics Certificate.
 * 💼 **Background:** 10 años liderando empresas, gestión de equipos y optimización operativa.
 * 🌍 **Idiomas:** Bilingüe (Español / Inglés).
 
