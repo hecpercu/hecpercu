@@ -31,7 +31,7 @@ Mi enfoque es híbrido: entiendo la operativa de negocio y poseo la capacidad t�
 ### 🏆 Proyecto Destacado: Modelo Predictivo Mundial 2026
 Actualmente, mi foco principal es el desarrollo de un **modelo predictivo de alta incertidumbre** aplicado al fútbol de élite.
 
-* **El desafío:** Predecir resultados en torneos cortos donde la inversión no siempre garantiza el éxito.
+* **El desafío:** Predecir resultados en torneos cortos donde el valor economico de la plantilla no siempre garantiza el exito.
 * **La solución:** Combinación de scraping de datos (FBref/Transfermarkt), ingeniería de características (Feature Engineering) y simulaciones estocásticas mediante **Monte Carlo**.
 * **El objetivo:** Desmitificar la influencia económica mediante el análisis de eficiencia operativa y robustez táctica.
 
